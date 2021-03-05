@@ -1,0 +1,46 @@
+html, body{
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+body{
+  background: none;
+  color: rgb(50,50,50);
+}
+
+.hdg{
+  text-align: center;
+  font-size: 40px;
+}
+
+.content{
+  padding-left: 24%;
+  padding-right: 24%;
+  text-align: justify;
+  font-size: 22px;
+}
+
+.sia{
+  background-color: rgba(200,200,200);
+  padding: 7%;
+  padding-bottom: 28%;
+  padding-left: 15%;
+  padding-right: 15%;
+  font-size: 20px;
+}
+
+.sia img{
+  width: 500px;
+  height: 300px;
+}
+
+.sia_c{
+  width: 35%;
+  float: left;
+}
+
+.sia_i{
+
+  float: right;
+}
